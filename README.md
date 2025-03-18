@@ -76,7 +76,7 @@ PubmedID, Title, Publication Date, Non-academic Authors, Company Affiliations, C
 ## ⚙️ Development & Contribution
 🔹 Clone this repository:  
 ```sh
-git clone https://github.com/yourusername/pubmed-fetcher.git
+git clone https://github.com/BVTKalyanChalla/pubmed-fetcher.git
 cd pubmed-fetcher
 ```
 🔹 Run the script:  
